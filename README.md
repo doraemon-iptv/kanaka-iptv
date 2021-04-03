@@ -1,2 +1,0 @@
-# kanaka-iptv
-Doraemon
